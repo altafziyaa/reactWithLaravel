@@ -2,7 +2,13 @@ import React from 'react'
 
 function First() {
   return (
-    <div>First App using dfghjsdfdfgtailwind css okkk</div>
+    <div>
+      <h1>my first app</h1>
+      <p>
+        im pushing my code github
+      </p>
+    </div>
+    
   )
 }
 
